@@ -1,0 +1,16 @@
+body{
+    background-image: url("darkroad.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+  }
+  
+  h1{
+      background: linear-gradient(to top, skyblue,rgb(143, 197, 204));
+  }
+  
+  p{
+      background: linear-gradient(to top, rgb(166, 173, 131),rgb(188, 172, 190));
+  }
