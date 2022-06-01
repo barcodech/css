@@ -1,0 +1,21 @@
+body{
+    margin: 30px;
+  }
+
+#p1{
+
+    border: 5px solid;
+    width: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 5px;
+}
+
+#p2{
+
+    border: 5px solid;
+    width: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 5px;
+}
