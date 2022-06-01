@@ -1,0 +1,29 @@
+p::first-letter{
+    font-size: 30px;
+    font-style: italic;
+    
+}
+
+p::first-line{
+    color: blueviolet;
+}
+
+li::before{
+    content: "😊";
+}
+
+#Elephant::after{
+    content: "😊";
+}
+#Horse::after{
+    content: "😂";
+}
+
+li::marker{
+    color: rgb(255, 0, 0);
+}
+
+p::selection{
+    color: rgb(238, 0, 0);
+    background-color: bisque;
+}
